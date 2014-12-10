@@ -1,0 +1,4 @@
+cron:
+- description: kralicemmis job
+  url: /job
+  schedule: every 10 mins
